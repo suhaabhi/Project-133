@@ -1,0 +1,23 @@
+.heading
+{
+    font-family: italic;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#button
+{
+   font-size: 15px;
+}
+
+#back
+{
+    font-size: 50px;
+}
+
+button
+{
+    color: rgb(255, 255, 255);
+    float: right;
+}

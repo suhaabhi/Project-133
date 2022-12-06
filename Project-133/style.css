@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(67, 10, 77);
+    border: 5px dotted ghostwhite;
+}
+
+#heading
+{
+    font-family: italic;
+    font-size: 50px;;
+    color: ghostwhite
+}
+
+a
+{
+    border: 3px solid pink;
+    font-size: 23px;
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(143, 32, 147);
+}
+
+#img
+{
+    float: left;
+}

@@ -1,0 +1,34 @@
+body
+{
+    background-image: "background.jpg";
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    font-family: italic;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+#button
+{
+   font-size: 15px;
+}
+
+#back
+{
+    font-size: 50px;
+}
+
+button
+{
+    float: right;
+}
+
+canvas
+{
+    border-style: ridge;
+}
